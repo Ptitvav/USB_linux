@@ -4,3 +4,4 @@
 
 
 echo " Liste des périphériques USB :"
+sdfg
